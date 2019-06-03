@@ -1,0 +1,129 @@
+body {
+	background: #F7F6F7;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.mail {
+	background: white;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+	margin-right: 10%;
+	margin-left: 10%;
+	box-sizing: border-box;
+}
+
+.container1 {
+	position: relative;
+	text-align: center;
+  	color: white;
+  	font-size: 32px;
+
+}
+
+.container2 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center; 
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.button {
+	background-color: white;
+  	border: none;
+  	color: #914669;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 20px 20px;
+  	border-radius: 10px;
+  	cursor: pointer;
+}
+
+
+.container3 {
+	background: #F7F6F7;
+	
+	padding: 0px;
+	padding-right: 20px;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: flex;
+}
+
+h1 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 28px;
+	margin: 0;	
+	font-weight: 600;
+	line-height: 1.1;
+	color: #914669;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 28px;
+	margin: 10px;
+	font-weight: 400;
+	line-height: 1.2; 
+	color: white;
+	letter-spacing: 0.01em;
+}
+
+h3 {
+	text-align: center;
+	font-size: 28px;
+	margin: 0;
+	font-weight: 200;
+	line-height: 1.2; 
+	color: #3C3C41;
+	letter-spacing: 0.01em;
+}
+
+p {	
+	color: #3C3C41;
+    font-size: 14px;
+    line-height: 1.6;
+    letter-spacing: .01em;
+	font-weight: 400;
+	font-style: normal;
+
+}
+
+.container-left {
+
+}
+.container-right {
+padding-left: 20px;
+padding-top: 10px;
+	
+}
+
+
+
+.gif {
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	color: black;
+
+}
+
+
+
+
